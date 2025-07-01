@@ -27,10 +27,6 @@ To visually explain the **key differences between blockchain and traditional dat
 | Data Structure      | Block-linked ledger                    | Rows and columns                       |
 | Control             | Decentralized                          | Centralized (admin-based)              |
 | Transparency        | Public visibility                      | Private/internal access                |
-| Security            | Tamper-proof with cryptography         | Vulnerable to internal edits           |
-| Performance         | Slower due to consensus                | Fast and optimized                     |
-| Mutability          | Immutable                              | Editable                               |
-| Use Cases           | Crypto, NFTs, DeFi, supply chain       | CRMs, banks, government records        |
 
 ---
 
